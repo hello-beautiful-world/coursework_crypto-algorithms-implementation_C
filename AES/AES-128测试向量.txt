@@ -1,0 +1,7 @@
+明文: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+密钥: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+密文: 66 e9 4b d4 ef 8a 2c 3b 88 4c fa 59 ca 34 2b 2e
+
+明文: ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+密钥: ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+密文: bc bf 21 7c b2 80 cf 30 b2 51 70 52 19 3a b9 79
