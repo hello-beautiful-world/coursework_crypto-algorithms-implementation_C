@@ -1,0 +1,4 @@
+﻿  main.c
+E:\homework\密码算法的软件实现\轻量级分组密码\Rectangle80\Rectangle80\main.c(29,45): warning C4047: “函数”:“int *(*)[64]”与“int [26][64]”的间接级别不同
+E:\homework\密码算法的软件实现\轻量级分组密码\Rectangle80\Rectangle80\main.c(29,45): warning C4024: “Rectangle80_lookup_table_key_schedule”: 形参和实参 2 的类型不同
+  Rectangle80.vcxproj -> E:\homework\密码算法的软件实现\轻量级分组密码\Rectangle80\Rectangle80\x64\Debug\Rectangle80.exe
